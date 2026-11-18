@@ -1,0 +1,15 @@
+# Quartus temporary files
+db/
+incremental_db/
+output_files/
+
+# Quartus lock files
+*.rdr.flock
+*.qws
+*.jdi
+*.bak
+
+# ModelSim
+transcript
+*.wlf
+work/

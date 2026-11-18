@@ -1,0 +1,115 @@
+# Reading C:/altera/13.1/modelsim_ase/tcl/vsim/pref.tcl 
+# do game_run_msim_rtl_verilog.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying C:\altera\13.1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:\altera\13.1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -sv -work work +incdir+F:/file/NTUST/DSD_Lab/final_project_home/src {F:/file/NTUST/DSD_Lab/final_project_home/src/game.sv}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module game
+# -- Compiling module led_display
+# -- Compiling module board_to_led
+# -- Compiling module blink_generate
+# 
+# Top level modules:
+# 	game
+# 
+pes
+# invalid command name "pes"
+pwd
+# F:/file/NTUST/DSD_Lab/final_project_home/simulation/modelsim
+vlog -sv ../../src/game.sv
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module game
+# -- Compiling module led_display
+# -- Compiling module board_to_led
+# -- Compiling module blink_generate
+# 
+# Top level modules:
+# 	game
+vlog -sv ../../testbench/tb_game.sv
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module tb_game
+# 
+# Top level modules:
+# 	tb_game
+vsim work.tb_game
+# vsim work.tb_game 
+# Loading sv_std.std
+# Loading work.tb_game
+# Loading work.game
+# Loading work.blink_generate
+# Loading work.board_to_led
+# Loading work.led_display
+run -all
+# Frame captured at 170000 ns
+# Frame captured at 330000 ns
+# Frame captured at 490000 ns
+# Frame captured at 650000 ns
+# Frame captured at 810000 ns
+# Frame captured at 970000 ns
+# Frame captured at 1130000 ns
+# Frame captured at 1290000 ns
+# Frame captured at 1450000 ns
+# Frame captured at 1610000 ns
+# Frame captured at 1770000 ns
+# Frame captured at 1930000 ns
+# Frame captured at 2090000 ns
+# Frame captured at 2250000 ns
+# Frame captured at 2410000 ns
+# Frame captured at 2570000 ns
+# Frame captured at 2730000 ns
+# Frame captured at 2890000 ns
+# Frame captured at 3050000 ns
+# Frame captured at 3210000 ns
+# Frame captured at 3370000 ns
+# Frame captured at 3530000 ns
+# Frame captured at 3690000 ns
+# Frame captured at 3850000 ns
+# Frame captured at 4010000 ns
+# Frame captured at 4170000 ns
+# Frame captured at 4330000 ns
+# Frame captured at 4490000 ns
+# Frame captured at 4650000 ns
+# Frame captured at 4810000 ns
+# Frame captured at 4970000 ns
+# Frame captured at 5130000 ns
+# Frame captured at 5290000 ns
+# Frame captured at 5450000 ns
+# Frame captured at 5610000 ns
+# Frame captured at 5770000 ns
+# Frame captured at 5930000 ns
+# Frame captured at 6090000 ns
+# Frame captured at 6250000 ns
+# Frame captured at 6410000 ns
+# Frame captured at 6570000 ns
+# Frame captured at 6730000 ns
+# Frame captured at 6890000 ns
+# Frame captured at 7050000 ns
+# Frame captured at 7210000 ns
+# Frame captured at 7370000 ns
+# Frame captured at 7530000 ns
+# Frame captured at 7690000 ns
+# Frame captured at 7850000 ns
+# Frame captured at 8010000 ns
+# Frame captured at 8170000 ns
+# Frame captured at 8330000 ns
+# Frame captured at 8490000 ns
+# Frame captured at 8650000 ns
+# Frame captured at 8810000 ns
+# Frame captured at 8970000 ns
+# Frame captured at 9130000 ns
+# Frame captured at 9290000 ns
+# Frame captured at 9450000 ns
+# Frame captured at 9610000 ns
+# Frame captured at 9770000 ns
+# Frame captured at 9930000 ns
+# Simulation finished.
+# ** Note: $finish    : ../../testbench/tb_game.sv(51)
+#    Time: 10 us  Iteration: 0  Instance: /tb_game

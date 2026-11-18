@@ -1,0 +1,297 @@
+m255
+K3
+z0
+!s11f MIXED_VERSIONS
+13
+cModel Technology
+dF:\file\NTUST\DSD_Lab\final_project_home\simulation\modelsim
+vblink_generate
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 DXx4 work 11 game_config 0 22 nRiW;DMl=e7jlDeczb04A3
+Z2 DXx4 work 20 game_display_sv_unit 0 22 M8=ZO6lNdV=nl]BV6XFfJ0
+Z3 !s110 1795013198
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 _a1An8Rc4hC_`1H8U??R=1
+IQL@Y<ch2PcEln=nC9hgBR0
+Z5 !s105 game_display_sv_unit
+S1
+Z6 dF:/file/NTUST/DSD_Lab/final_project_home/simulation/modelsim
+Z7 w1795010833
+Z8 8../../src/game_display.sv
+Z9 F../../src/game_display.sv
+!i122 44
+L0 119 22
+Z10 OV;L;2020.1;71
+31
+Z11 !s108 1795013198.000000
+Z12 !s107 ../../src/game_display.sv|
+Z13 !s90 -reportprogress|300|-sv|../../src/game_display.sv|
+!i113 1
+o-sv
+Z14 tCvgOpt 0
+vboard_to_led
+R0
+R1
+R2
+R3
+R4
+r1
+!s85 0
+!i10b 1
+!s100 `T5Q;d98=eh?KYC[Qd0ll2
+IeZ[[aNl^37F`=32GD<jk40
+R5
+S1
+R6
+R7
+R8
+R9
+!i122 44
+L0 73 43
+R10
+31
+R11
+R12
+R13
+!i113 1
+o-sv
+R14
+vgame
+R0
+R1
+DXx4 work 12 game_sv_unit 0 22 T0>K05h1EWC4dz:JFEB2c1
+Z15 !s110 1795013199
+R4
+r1
+!s85 0
+!i10b 1
+!s100 n6=C8X[=`Ik7b3GJ63d_[1
+IgB26EO_RhEPGdak8NbPSf0
+!s105 game_sv_unit
+S1
+R6
+Z16 w1795013185
+Z17 8../../src/game.sv
+Z18 F../../src/game.sv
+!i122 46
+L0 4 57
+R10
+31
+Z19 !s108 1795013199.000000
+Z20 !s107 ../../src/game.sv|
+Z21 !s90 -reportprogress|300|-sv|../../src/game.sv|
+!i113 1
+o-sv
+R14
+Xgame_config
+R0
+R3
+!i10b 1
+!s100 WM52]i3P3Bg2:K?_gU@BH1
+Z22 !s11b Dg1SIo80bB@j0V0VzS_@n1
+InRiW;DMl=e7jlDeczb04A3
+VnRiW;DMl=e7jlDeczb04A3
+S1
+R6
+w1795010091
+8../../src/game_config.sv
+F../../src/game_config.sv
+!i122 43
+L0 1 0
+R10
+r1
+!s85 0
+31
+R11
+!s107 ../../src/game_config.sv|
+!s90 -reportprogress|300|-sv|../../src/game_config.sv|
+!i113 1
+o-sv
+R14
+vgame_display
+R0
+R1
+R2
+R3
+R4
+r1
+!s85 0
+!i10b 1
+!s100 SbO<zYfJL@mmMclzm;[zW2
+IHBM1;[zQ>`A:2IcK[6F[61
+R5
+S1
+R6
+R7
+R8
+R9
+!i122 44
+L0 4 37
+R10
+31
+R11
+R12
+R13
+!i113 1
+o-sv
+R14
+Xgame_display_sv_unit
+R0
+R1
+R3
+VM8=ZO6lNdV=nl]BV6XFfJ0
+r1
+!s85 0
+!i10b 1
+!s100 b<3DfPLU_WBZL<695KDna0
+IM8=ZO6lNdV=nl]BV6XFfJ0
+!i103 1
+S1
+R6
+R7
+R8
+R9
+!i122 44
+Z23 L0 2 0
+R10
+31
+R11
+R12
+R13
+!i113 1
+o-sv
+R14
+vgame_logic
+R0
+R1
+DXx4 work 18 game_logic_sv_unit 0 22 FQSIEi5Y;hBaO<NdO<aCn2
+R3
+R4
+r1
+!s85 0
+!i10b 1
+!s100 OkUE_?I]Jc:WW=L9?Em?M3
+ISih;mh`C`1dn7WDoH]B5d2
+!s105 game_logic_sv_unit
+S1
+R6
+Z24 w1795013179
+Z25 8../../src/game_logic.sv
+Z26 F../../src/game_logic.sv
+!i122 45
+L0 4 4
+R10
+31
+R11
+Z27 !s107 ../../src/game_logic.sv|
+Z28 !s90 -reportprogress|300|-sv|../../src/game_logic.sv|
+!i113 1
+o-sv
+R14
+Xgame_logic_sv_unit
+R0
+R1
+R3
+VFQSIEi5Y;hBaO<NdO<aCn2
+r1
+!s85 0
+!i10b 1
+!s100 YgzHnleTS<]nNXYjBKQcU2
+IFQSIEi5Y;hBaO<NdO<aCn2
+!i103 1
+S1
+R6
+R24
+R25
+R26
+!i122 45
+R23
+R10
+31
+R11
+R27
+R28
+!i113 1
+o-sv
+R14
+Xgame_sv_unit
+R0
+R1
+R15
+VT0>K05h1EWC4dz:JFEB2c1
+r1
+!s85 0
+!i10b 1
+!s100 TB1lLcnA^S<7iaEkb3JN21
+IT0>K05h1EWC4dz:JFEB2c1
+!i103 1
+S1
+R6
+R16
+R17
+R18
+!i122 46
+R23
+R10
+31
+R19
+R20
+R21
+!i113 1
+o-sv
+R14
+vled_display
+R0
+R1
+R2
+R3
+R4
+r1
+!s85 0
+!i10b 1
+!s100 Qec5KS[:oOWC4RS0<OD6G3
+IaaL7X4@GJ[GDnEojZLO;02
+R5
+S1
+R6
+R7
+R8
+R9
+!i122 44
+L0 48 22
+R10
+31
+R11
+R12
+R13
+!i113 1
+o-sv
+R14
+vtb_game
+R0
+R15
+!i10b 1
+!s100 9USdjSWE_`3AONYb?;VIT2
+R22
+I3:O67RANHaKBX_k>0h=U21
+R4
+S1
+R6
+w1794990101
+8../../testbench/tb_game.sv
+F../../testbench/tb_game.sv
+!i122 47
+L0 4 93
+R10
+r1
+!s85 0
+31
+R19
+!s107 ../../testbench/tb_game.sv|
+!s90 -reportprogress|300|-sv|../../testbench/tb_game.sv|
+!i113 1
+o-sv
+R14
